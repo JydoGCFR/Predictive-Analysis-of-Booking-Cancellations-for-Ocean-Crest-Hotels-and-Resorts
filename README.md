@@ -1,0 +1,2 @@
+# Predictive-Analysis-of-Booking-Cancellations-for-Ocean-Crest-Hotels-and-Resorts
+This report outlines a predictive analysis aimed at minimizing booking cancellations for Ocean Crest Hotels and Resorts. Given the significant revenue impact of cancellations, the project focuses on understanding customer booking behaviors and developing strategies to optimize marketing and operations to reduce these cancellations.
